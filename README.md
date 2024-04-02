@@ -1,8 +1,12 @@
-# Screenshots
+## Screenshots
 
-[!Screenshot1](https://res.cloudinary.com/dxaovcjmr/image/upload/v1712021355/S1_ldauma.png);
-[!Screenshot2](https://res.cloudinary.com/dxaovcjmr/image/upload/v1712021355/S2_stcqu6.png);
-[!Screenshot3](https://res.cloudinary.com/dxaovcjmr/image/upload/v1712021354/S3_pel5ch.png);
+![Screenshot 1](https://res.cloudinary.com/dxaovcjmr/image/upload/v1712021355/S1_ldauma.png);
+![Screenshot2](https://res.cloudinary.com/dxaovcjmr/image/upload/v1712021355/S2_stcqu6.png);
+![Screenshot3](https://res.cloudinary.com/dxaovcjmr/image/upload/v1712021354/S3_pel5ch.png);
+
+# Live Demo
+
+[Click Here](https://classcardhaneef.netlify.app);
 
 # Getting Started with Create React App
 
